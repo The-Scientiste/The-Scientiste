@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @The-Scientiste
-- 👀 I’m interested in Artificial Intelligence $ Front End Development
+- 👋 Hi, I’m @The-Designer
+- 👀 I’m interested in Ui/Ux and Full Stack Software Development.
 - 🌱 I’m currently learning various Programming Languages
 - 💞️ I’m looking to collaborate on As Many Project As Possible
-- 📫 How to reach me elyon.omidiora@stu.cu.edu.ng//3lyn._
+- 📫 How to reach me; 
 
 <!---
 The-Scientiste/The-Scientiste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
